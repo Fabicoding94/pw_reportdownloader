@@ -1,0 +1,78 @@
+[
+  {
+    "nome": "OVS",
+    "segmento": "Fast Fashion",
+    "report": [
+      {
+        "anno": 2023,
+        "titolo": "Report di sostenibilità 2023",
+        "url": "https://www.ovscorporate.it/sites/ovs/files/documents/ovs_bilancio_sostenibilita_2023.pdf"
+      }
+    ]
+  },
+  {
+    "nome": "Benetton",
+    "segmento": "Fast Fashion",
+    "report": [
+      {
+        "anno": 2023,
+        "titolo": "Sostenibilità ambientale – Wet Process",
+        "url": "https://www.benettongroup.com/wp-content/uploads/2023/09/Wet-Processing.pdf"
+      }
+    ]
+  },
+  {
+    "nome": "Gucci",
+    "segmento": "Lusso",
+    "report": [
+      {
+        "anno": 2023,
+        "titolo": "Impact Report 2023",
+        "url": "https://equilibrium.gucci.com/it/impact-report-2023/"
+      },
+      {
+        "anno": 2024,
+        "titolo": "Principi di Sostenibilità",
+        "url": "https://sustainabilityprinciples.gucci.com/it/assets/Principi-di-Sostenibilita_2024_IT_rev01.pdf"
+      }
+    ]
+  },
+  {
+    "nome": "Moncler",
+    "segmento": "Lusso",
+    "report": [
+      {
+        "anno": 2024,
+        "titolo": "Rendicontazione Consolidata di Sostenibilità 2024",
+        "url": "https://www.monclergroup.com/wp-content/uploads/2025/04/moncler-group-rendicontazione-consolidata-di-sostenibilita-2024-risultati-principali.pdf"
+      }
+    ]
+  },
+  {
+    "nome": "Prada Group",
+    "segmento": "Lusso",
+    "report": [
+      {
+        "anno": 2023,
+        "titolo": "Sustainability Report 2023",
+        "url": "https://www.pradagroup.com/pradagroupjournal/e4f74ca298b9eeaeb23436599fa34f63/wp-content/uploads/2024/04/i-Prada_Group_2023_Sustainability_Report-2.pdf"
+      },
+      {
+        "anno": 2024,
+        "titolo": "Sustainability Report 2024",
+        "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Responsabilita_sociale/2025/Report-CSR-2024/E_2024%20Sustainability%20Report.pdf"
+      }
+    ]
+  },
+  {
+    "nome": "Oniverse (ex Calzedonia)",
+    "segmento": "Fast Fashion",
+    "report": [
+      {
+        "anno": 2024,
+        "titolo": "Report di sostenibilità 2024",
+        "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/Report-di-sostenibilit%C3%A0---Oniverse-2024/original/Report+di+sostenibilit%C3%A0+-+Oniverse+2024.pdf"
+      }
+    ]
+  }
+]
