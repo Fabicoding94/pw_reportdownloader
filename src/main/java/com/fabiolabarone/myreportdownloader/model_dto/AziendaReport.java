@@ -3,16 +3,16 @@ package com.fabiolabarone.myreportdownloader.model_dto;
 import java.util.List;
 
 public class AziendaReport {
-    private String nome;
-    private String segmento;
+    private String companyName;
+    private String segment;
     private List<ReportLink> report;
 
     // Getters e Setters
-    public String getNome() { return nome; }
-    public void setNome(String nome) { this.nome = nome; }
+    public String getCompanyName() { return companyName; }
+    public void setCompanyName(String companyName) { this.companyName = companyName; }
 
-    public String getSegmento() { return segmento; }
-    public void setSegmento(String segmento) { this.segmento = segmento; }
+    public String getSegment() { return segment; }
+    public void setSegment(String segment) { this.segment = segment; }
 
     public List<ReportLink> getReport() { return report; }
     public void setReport(List<ReportLink> report) { this.report = report; }

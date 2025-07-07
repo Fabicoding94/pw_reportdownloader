@@ -1,76 +1,82 @@
 [
   {
-    "nome": "OVS",
-    "segmento": "Fast Fashion",
+    "companyName": "OVS",
+    "segment": "Fast Fashion",
     "report": [
       {
-        "anno": 2023,
-        "titolo": "Report di sostenibilità 2023",
-        "url": "https://www.ovscorporate.it/sites/ovs/files/documents/ovs_bilancio_sostenibilita_2023.pdf"
+        "year": 2023,
+        "title": "OVS - Report di sostenibilità 2023",
+        "url": "https://www.ovscorporate.it/sites/default/files/documents/2023-10/ovs_sustainability_linked_bond_ita.pdf"
+      },
+      {
+        "year": 2022,
+        "title": "OVS - Report di sostenibilità 2022",
+        "url": "https://www.ovscorporate.it/sites/default/files/documents/2023-10/ovs_sustainability_linked_bond_progress_report_2022_ita.pdf"
+
       }
     ]
   },
   {
-    "nome": "Benetton",
-    "segmento": "Fast Fashion",
+    "companyName": "Benetton",
+    "segment": "Fast Fashion",
     "report": [
       {
-        "anno": 2023,
-        "titolo": "Sostenibilità ambientale – Wet Process",
-        "url": "https://www.benettongroup.com/wp-content/uploads/2023/09/Wet-Processing.pdf"
+        "year": 2023,
+        "title": "Benetton Group - Bilancio Integrato 2023",
+        "url": "https://www.benettongroup.com/site/assets/files/7902/it-2023-bilancio_integrato_01.pdf"
       }
     ]
   },
   {
-    "nome": "Gucci",
-    "segmento": "Lusso",
+    "companyName": "Gucci",
+    "segment": "Lusso",
     "report": [
       {
-        "anno": 2023,
-        "titolo": "Impact Report 2023",
+        "year": 2023,
+        "title": "Gucci - Impact Report 2023",
         "url": "https://equilibrium.gucci.com/it/impact-report-2023/"
       },
       {
-        "anno": 2024,
-        "titolo": "Principi di Sostenibilità",
+        "year": 2024,
+        "title": "Gucci - Principi di Sostenibilità 2024",
         "url": "https://sustainabilityprinciples.gucci.com/it/assets/Principi-di-Sostenibilita_2024_IT_rev01.pdf"
       }
     ]
   },
   {
-    "nome": "Moncler",
-    "segmento": "Lusso",
+    "companyName": "Moncler",
+    "segment": "Lusso",
     "report": [
       {
-        "anno": 2024,
-        "titolo": "Rendicontazione Consolidata di Sostenibilità 2024",
+        "year": 2024,
+        "title": "Moncler - Rendicontazione Consolidata di Sostenibilità 2024",
         "url": "https://www.monclergroup.com/wp-content/uploads/2025/04/moncler-group-rendicontazione-consolidata-di-sostenibilita-2024-risultati-principali.pdf"
       }
     ]
   },
   {
-    "nome": "Prada Group",
-    "segmento": "Lusso",
+    "companyName": "Prada Group",
+    "segment": "Lusso",
     "report": [
       {
-        "anno": 2023,
-        "titolo": "Sustainability Report 2023",
+        "year": 2023,
+        "title": "Prada Group - Sustainability Report 2023",
         "url": "https://www.pradagroup.com/pradagroupjournal/e4f74ca298b9eeaeb23436599fa34f63/wp-content/uploads/2024/04/i-Prada_Group_2023_Sustainability_Report-2.pdf"
       },
       {
-        "anno": 2024,
-        "titolo": "Sustainability Report 2024",
+        "year": 2024,
+        "title": "Prada Group - Sustainability Report 2024",
         "url": "https://www.pradagroup.com/content/dam/pradagroup/documents/Responsabilita_sociale/2025/Report-CSR-2024/E_2024%20Sustainability%20Report.pdf"
       }
     ]
   },
   {
-    "nome": "Oniverse (ex Calzedonia)",
-    "segmento": "Fast Fashion",
+    "companyName": "Oniverse (ex Calzedonia)",
+    "segment": "Fast Fashion",
     "report": [
       {
-        "anno": 2024,
-        "titolo": "Report di sostenibilità 2024",
+        "year": 2024,
+        "title": "Oniverse - Report di sostenibilità 2024",
         "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/Report-di-sostenibilit%C3%A0---Oniverse-2024/original/Report+di+sostenibilit%C3%A0+-+Oniverse+2024.pdf"
       }
     ]
