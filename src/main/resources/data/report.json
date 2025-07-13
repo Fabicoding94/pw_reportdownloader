@@ -46,6 +46,67 @@
     ]
   },
   {
+    "companyName": "Gruppo Armani",
+    "segment": "Lusso",
+    "brandHistory": "Gucci è stato fondato nel 1921 a Firenze da Guccio Gucci. Iniziando come azienda di pelletteria, è diventato un'icona mondiale del lusso e della moda italiana. Dopo varie fasi di crisi e rilancio, è oggi uno dei brand di punta del gruppo Kering.",
+    "report": [
+      {
+        "year": 2023,
+        "title": "Armani - Bilancio di sostenibilità 2023",
+        "url": "https://armanivalues.com/wp-content/uploads/2025/02/Bilancio-di-Sostenibilita%CC%80-2023_Gruppo-Armani.pdf"
+      },
+      {
+        "year": 2022,
+        "title": "Armani - Bilancio di sostenibilità 2022",
+        "url": "https://armanivalues.com/wp-content/uploads/2023/08/Bilancio-di-Sostenibilita%CC%80-2022_Gruppo-Armani.pdf"
+      },
+      {
+        "year": 2021,
+        "title": "Armani - Bilancio di sostenibilità 2021",
+        "url": "https://armanivalues.com/wp-content/uploads/2022/11/Sustainability-Report-2021-Armani-Group-IT.pdf"
+      },
+      {
+        "year": 2020,
+        "title": "Armani - Bilancio di sostenibilità 2020",
+        "url": "https://armanivalues.com/wp-content/uploads/2021/12/Sustainability-Report-2020-Armani-Group-IT.pdf"
+      }
+
+    ]
+  },
+  {
+    "companyName": "Ferragamo",
+    "segment": "Lusso",
+    "brandHistory": "Gucci è stato fondato nel 1921 a Firenze da Guccio Gucci. Iniziando come azienda di pelletteria, è diventato un'icona mondiale del lusso e della moda italiana. Dopo varie fasi di crisi e rilancio, è oggi uno dei brand di punta del gruppo Kering.",
+    "report": [
+      {
+        "year": 2024,
+        "title": "Ferragamo - Report annuale 2024",
+        "url": "https://sustainability.ferragamo.com/resource/blob/1036092/f1924c557fd1496708f00f9373d4a063/ferragamo-bilancio-2024-ita-web-affiancate-data.pdf?UNDEFINED"
+      },
+      {
+        "year": 2023,
+        "title": "Ferragamo - Report annuale 2023",
+        "url": "https://sustainability.ferragamo.com/resource/blob/887226/25aae668d751ecd419c3bbf786d5a1d1/ferragamo-ita-23-sing-data.pdf?UNDEFINED"
+      },
+      {
+        "year": 2022,
+        "title": "Ferragamo - Report annuale 2022",
+        "url": "https://sustainability.ferragamo.com/resource/blob/784290/6f995cb9add8e3d6d2b76c6c3cea30ee/gruppo-ferragamo-annual-report-2022-data.pdf?UNDEFINED"
+      },
+      {
+        "year": 2021,
+        "title": "Ferragamo - Report annuale 2021",
+        "url": "https://sustainability.ferragamo.com/resource/blob/577416/93962e5179d00fe9820a4008ddb8aba4/annual-report-salvatore-ferragamo-2021-data.pdf?UNDEFINED"
+      },
+      {
+        "year": 2020,
+        "title": "Ferragamo - Report annuale 2020",
+        "url": "https://sustainability.ferragamo.com/resource/blob/577378/6816c0aac4a60793e20b9ec5bf7987a5/annual-report-ferragamo-2020-ita-data.pdf?UNDEFINED"
+      }
+
+    ]
+  },
+  {
     "companyName": "Moncler",
     "segment": "Lusso",
     "brandHistory": "Moncler è nato in Francia nel 1952, specializzandosi in abbigliamento da montagna. Successivamente trasferito in Italia, ha reinventato il piumino come capo di moda. Negli anni 2000, grazie a Remo Ruffini, il brand è stato rilanciato e oggi è sinonimo di lusso sportivo.",
@@ -83,7 +144,33 @@
         "year": 2024,
         "title": "Oniverse - Report di sostenibilità 2024",
         "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/Report-di-sostenibilit%C3%A0---Oniverse-2024/original/Report+di+sostenibilit%C3%A0+-+Oniverse+2024.pdf"
+      },
+      {
+        "year": 2023,
+        "title": "Oniverse - Report di sostenibilità 2023",
+        "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/Report-di-sostenibilit%C3%A0----Oniverse-2023/original/Report+di+sostenibilit%C3%A0+-++Oniverse+2023.pdf"
+      },
+      {
+        "year": 2022,
+        "title": "Oniverse - Report di sostenibilità 2022",
+        "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/Report-Sostenibilit%C3%A0-2022---calzedonia-group/original/Report+Sostenibilit%C3%A0+2022+-+calzedonia+group.pdf"
+      },
+      {
+        "year": 2021,
+        "title": "Oniverse - Report di sostenibilità 2021",
+        "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/Report-di-Sostenibilit%C3%A0-2021---Calzedonia-Group/original/Report%2Bdi%2BSostenibilit%C3%A0%2B2021%2B-%2BCalzedonia%2BGroup.pdf"
+      },
+      {
+        "year": 2020,
+        "title": "Oniverse - Report di sostenibilità 2020",
+        "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/CalzedoniaGroup_ReportdiSostenibilit%C3%A02020/original/Calzedonia+Group+-+Report+di+Sostenibilit%C3%A0+2020.pdf"
+      },
+      {
+        "year": 2019,
+        "title": "Oniverse - Report di sostenibilità 2019",
+        "url": "https://www.oniverse.it/mediaObject/images/report-sostenibilita/CalzedoniaGroup_ReportdiSostenibilit%C3%A02019/original/Report+di+Sostenibilit%C3%A0+2019+-+Calzedonia+Group.pdf"
       }
+
     ]
   }
 ]
