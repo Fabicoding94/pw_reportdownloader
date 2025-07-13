@@ -2,6 +2,7 @@
   {
     "companyName": "OVS",
     "segment": "Fast Fashion",
+    "brandHistory": "OVS nasce nel 1972 come parte del gruppo Coin. Negli anni si è affermata come leader in Italia nel settore dell’abbigliamento fast fashion, con un modello di business orientato alla qualità accessibile e alla sostenibilità. È diventata indipendente e quotata in borsa nel 2015.",
     "report": [
       {
         "year": 2023,
@@ -12,13 +13,13 @@
         "year": 2022,
         "title": "OVS - Report di sostenibilità 2022",
         "url": "https://www.ovscorporate.it/sites/default/files/documents/2023-10/ovs_sustainability_linked_bond_progress_report_2022_ita.pdf"
-
       }
     ]
   },
   {
     "companyName": "Benetton",
     "segment": "Fast Fashion",
+    "brandHistory": "Benetton Group è stato fondato nel 1965 a Ponzano Veneto. Celebre per la sua strategia pubblicitaria provocatoria e per i colori vivaci, è diventato uno dei simboli globali del fast fashion. Ha raggiunto il picco del successo negli anni '80 e '90.",
     "report": [
       {
         "year": 2023,
@@ -30,6 +31,7 @@
   {
     "companyName": "Gucci",
     "segment": "Lusso",
+    "brandHistory": "Gucci è stato fondato nel 1921 a Firenze da Guccio Gucci. Iniziando come azienda di pelletteria, è diventato un'icona mondiale del lusso e della moda italiana. Dopo varie fasi di crisi e rilancio, è oggi uno dei brand di punta del gruppo Kering.",
     "report": [
       {
         "year": 2023,
@@ -46,6 +48,7 @@
   {
     "companyName": "Moncler",
     "segment": "Lusso",
+    "brandHistory": "Moncler è nato in Francia nel 1952, specializzandosi in abbigliamento da montagna. Successivamente trasferito in Italia, ha reinventato il piumino come capo di moda. Negli anni 2000, grazie a Remo Ruffini, il brand è stato rilanciato e oggi è sinonimo di lusso sportivo.",
     "report": [
       {
         "year": 2024,
@@ -57,6 +60,7 @@
   {
     "companyName": "Prada Group",
     "segment": "Lusso",
+    "brandHistory": "Il gruppo Prada ha origine nel 1913 con l’apertura di un negozio di pelletteria a Milano da parte di Mario Prada. Negli anni '80, sotto la guida di Miuccia Prada, il marchio ha ridefinito l’estetica del lusso con un approccio minimalista e innovativo. Il gruppo include anche i marchi Miu Miu, Church’s e Car Shoe.",
     "report": [
       {
         "year": 2023,
@@ -73,6 +77,7 @@
   {
     "companyName": "Oniverse (ex Calzedonia)",
     "segment": "Fast Fashion",
+    "brandHistory": "Fondata nel 1986 da Sandro Veronesi, Calzedonia è cresciuta fino a includere anche Intimissimi, Tezenis e Falconeri. Nel 2023 il gruppo ha cambiato nome in Oniverse, mantenendo il suo focus su moda accessibile e di qualità, con una forte rete retail internazionale.",
     "report": [
       {
         "year": 2024,

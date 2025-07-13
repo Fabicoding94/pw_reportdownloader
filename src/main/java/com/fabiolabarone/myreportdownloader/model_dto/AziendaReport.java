@@ -5,7 +5,17 @@ import java.util.List;
 public class AziendaReport {
     private String companyName;
     private String segment;
+
+    private String brandHistory;
     private List<ReportLink> report;
+
+    public String getBrandHistory() {
+        return brandHistory;
+    }
+
+    public void setBrandHistory(String brandHistory) {
+        this.brandHistory = brandHistory;
+    }
 
     // Getters e Setters
     public String getCompanyName() { return companyName; }
